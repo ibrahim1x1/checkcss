@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 50px;
+  background-color: black;
+  color: rgb(230, 230, 240);
+}
+
+h2 {
+  background-color: black;
+  color: white;
+}
+h5 { 
+  background-color: black;
+  color: rgb(247, 250, 253);
+}
+div {
+  background-color: rgb(12, 12, 14);
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+li {
+  display: inline;
+  margin: 0 10px;
+}
+
+main {
+  margin-top: 30px;
